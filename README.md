@@ -5,7 +5,7 @@ Difficult to communicate effectively between deaf people and people who are not 
 
 
 ## Solution
-Sinhala Sign Language to Sinhala/English translation using a mobile application with Deep learning and translates English voice/Sinhala text to Sinhala Sign Language with the use of a 3D model avatar.
+Sinhala Sign Language to Sinhala/English translation using a mobile application with Deep learning and translating English voice/Sinhala text to Sinhala Sign Language with the use of a 3D model avatar.
 
 ## Technologies and Tools
  - Flutter

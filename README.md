@@ -10,7 +10,7 @@ Sinhala Sign Language to Sinhala/English translation using a mobile application 
 ## Functionalities
  - Convert Sinhala Sign word to Sinhala or English Language
  - Convert Sinhala Sign sentence to Sinhala or English Language
- - Convert voice or text to Sinhala Sign Language
+ - Convert voice or text to Sinhala Sign Language using 3D model avatar
 
 ## Technologies and Tools
  - Flutter

@@ -17,7 +17,8 @@ Sinhala Sign Language to Sinhala/English translation using a mobile application 
  - Keras with tensorflow
  - Python
 
-##Screenshoot of the Application
+## Screenshoot of the Application
+
 ![WhatsApp Image 2021-05-03 at 3 02 27 AM (1)](https://user-images.githubusercontent.com/47137116/119236418-f5c66900-bb54-11eb-87b3-cb2a3d849447.jpeg)
 ![WhatsApp Image 2021-05-03 at 3 02 28 AM](https://user-images.githubusercontent.com/47137116/119236410-e8a97a00-bb54-11eb-81a3-f981943ed86f.jpeg)
 ![WhatsApp Image 2021-05-03 at 3 02 29 AM (1)](https://user-images.githubusercontent.com/47137116/119236425-0080fe00-bb55-11eb-98be-aad2cf912f6b.jpeg)

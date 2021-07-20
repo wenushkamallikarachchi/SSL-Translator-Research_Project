@@ -7,6 +7,10 @@ Difficult to communicate effectively between deaf people and people who are not 
 ## Solution
 Sinhala Sign Language to Sinhala/English translation using a mobile application with Deep learning and translating English voice/Sinhala text to Sinhala Sign Language with the use of a 3D model avatar.
 
+## Dataset
+You can get dataset from here.
+[Sinhala Sign Langauge Dataset](https://www.kaggle.com/wenushkamalli/sinhala-sign-langauage-sinhala-words)
+
 ## Functionalities
  - Convert Sinhala Sign word to Sinhala or English Language
  - Convert Sinhala Sign sentence to Sinhala or English Language
